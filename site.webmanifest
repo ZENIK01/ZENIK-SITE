@@ -1,0 +1,35 @@
+{
+  "name": "ZENIK Token",
+  "short_name": "ZENIK",
+  "description": "ZENIK (ZNK) — Deflationary BEP-20 Token on BNB Smart Chain",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#04070d",
+  "theme_color": "#00dcff",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["finance", "crypto"],
+  "shortcuts": [
+    {
+      "name": "Buy ZNK",
+      "url": "https://pancakeswap.finance/swap?outputCurrency=0xdB910d93CFF723Ed408915f45bBE15eA6234AE81",
+      "description": "Buy ZENIK on PancakeSwap"
+    },
+    {
+      "name": "Whitepaper",
+      "url": "/whitepaper.html",
+      "description": "Read the ZENIK Whitepaper"
+    }
+  ]
+}
